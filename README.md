@@ -16,11 +16,11 @@ This project integrates a **Large Language Model (LLM)** with a Raspberry Pi rob
 - OpenAI GPT-3.5-turbo API / Ollama (local LLM)
 
 ## 📂 Project Structure
-├── hardware/ (schematics, wiring) 
-├── perception/ (vision scripts) 
-├── llm-integration/ (LLM scripts) 
-├── control-layer/ (motor control scripts) 
-├── docs/ (installation, usage instructions) 
+├── hardware/ (schematics, wiring)  
+├── perception/ (vision scripts)  
+├── llm-integration/ (LLM scripts)  
+├── control-layer/ (motor control scripts)  
+├── docs/ (installation, usage instructions)  
 └── videos/ (demo videos)
 
 
